@@ -7,22 +7,52 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;Cloud+%26+DevOps;Cybersecurity+%2B+AI" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;Cloud+%26+DevOps+Engineer;Cybersecurity+%2B+AI+Practitioner" alt="Typing animation"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/eba2311">
-    <img src="https://img.shields.io/badge/GitHub-eba2311-181717?style=flat-square&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-eba2311-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=eba2311&style=flat-square&color=0ea5e9&label=Profile+Views"/>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <em>Software Engineer building reliable, secure, and scalable systems.</em>
+  <img src="https://komarev.com/ghpvc/?username=eba2311&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/eba2311?style=for-the-badge&color=0ea5e9&label=FOLLOWERS"/>
 </p>
+
+<p align="center">
+  <em>Software Engineer designing reliable, secure, and scalable systems — from database schema to deployment pipeline.</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1624,50:58A6FF,100:0B1624&animation=fadeIn" width="100%"/>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     TABLE OF CONTENTS                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<details open>
+<summary><b>📑 Table of Contents</b></summary>
+<br/>
+
+- [About](#about)
+- [Core Competencies](#core-competencies)
+- [Technical Skills](#technical-skills)
+- [Featured Project](#featured-project)
+- [GitHub Analytics](#github-analytics)
+- [Achievements](#achievements)
+- [Engineering Principles](#engineering-principles)
+- [Connect](#connect)
+
+</details>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1624,50:58A6FF,100:0B1624&animation=fadeIn" width="100%"/>
@@ -30,13 +60,49 @@
 
 ## About
 
-I'm a software engineer focused on full-stack development, cloud infrastructure, and secure system design. I care about clean architecture, thoughtful engineering trade-offs, and shipping software that holds up under real-world conditions. Currently deepening my expertise in cloud/DevOps, cybersecurity, and applied AI.
+I'm a software engineer specializing in full-stack development, cloud infrastructure, and secure system design. My approach centers on clean architecture, deliberate engineering trade-offs, and building software that performs reliably under real-world load. I am currently deepening expertise in cloud/DevOps engineering, applied cybersecurity, and intelligent systems.
 
-**Core focus areas**
-- Full-stack web application development
-- Cloud infrastructure and DevOps practices
-- Secure-by-design system architecture
-- Applied AI and intelligent systems
+<table width="100%">
+<tr>
+<td width="25%" align="center"><b>🎯 Focus</b><br/>Full-Stack Engineering</td>
+<td width="25%" align="center"><b>☁️ Direction</b><br/>Cloud & DevOps</td>
+<td width="25%" align="center"><b>🔐 Discipline</b><br/>Secure-by-Design</td>
+<td width="25%" align="center"><b>🤖 Frontier</b><br/>Applied AI</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1624,50:58A6FF,100:0B1624&animation=fadeIn" width="100%"/>
+</p>
+
+## Core Competencies
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Software Engineering**
+- Full-stack application architecture
+- RESTful API design & development
+- Real-time systems (WebSockets)
+- Relational & geospatial database design
+- Authentication, authorization & RBAC
+- System design & scalability planning
+
+</td>
+<td width="50%" valign="top">
+
+**Platform Engineering**
+- Cloud infrastructure & deployment
+- CI/CD pipeline design
+- Containerization (Docker)
+- Application & infrastructure security
+- Applied AI / intelligent systems integration
+- Version control & collaborative workflows
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1624,50:58A6FF,100:0B1624&animation=fadeIn" width="100%"/>
@@ -73,11 +139,28 @@ I'm a software engineer focused on full-stack development, cloud infrastructure,
 <td colspan="2" valign="top">
 
 **Cloud, DevOps & Tooling**
-<p><img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman,aws&perline=7"/></p>
+<p><img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman&perline=6"/></p>
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>Proficiency Breakdown</b> (click to expand)</summary>
+<br/>
+
+| Skill Area | Proficiency |
+|---|---|
+| JavaScript / Node.js | ████████████████░░░░ 80% |
+| React | ███████████████░░░░░ 75% |
+| Python | ██████████████░░░░░░ 70% |
+| SQL / PostgreSQL | ███████████████░░░░░ 75% |
+| Cloud & DevOps | ██████████░░░░░░░░░░ 50% |
+| Cybersecurity | █████████░░░░░░░░░░░ 45% |
+
+<sub>Self-assessed — update these percentages as your skills grow.</sub>
+
+</details>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1624,50:58A6FF,100:0B1624&animation=fadeIn" width="100%"/>
@@ -96,6 +179,7 @@ I'm a software engineer focused on full-stack development, cloud infrastructure,
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square"/>
 </p>
 
 A full-stack transportation management platform built for real-time operational visibility, combining live geospatial tracking with role-based access control.
@@ -105,11 +189,11 @@ A full-stack transportation management platform built for real-time operational 
 | Feature | Feature |
 |---|---|
 | Real-time GPS tracking | Role-based access control |
-| Geospatial data (PostGIS) | Operational analytics |
+| Geospatial data (PostGIS) | Operational analytics dashboard |
 | WebSocket-based live updates | Multi-language support |
-| Cloud deployment | Responsive UI |
+| Cloud deployment | Fully responsive UI |
 
-**Architecture**
+**System Architecture**
 
 ```text
                     ┌──────────────┐
@@ -129,7 +213,7 @@ A full-stack transportation management platform built for real-time operational 
 
 <p>
   <a href="https://github.com/eba2311/tmsm">
-    <img src="https://img.shields.io/badge/View%20Repository-58A6FF?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -164,15 +248,27 @@ A full-stack transportation management platform built for real-time operational 
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1624,50:58A6FF,100:0B1624&animation=fadeIn" width="100%"/>
 </p>
 
+## Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eba2311&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1624,50:58A6FF,100:0B1624&animation=fadeIn" width="100%"/>
+</p>
+
 ## Engineering Principles
 
-- Understand the problem before writing code
-- Design before implementation
-- Keep code clean, readable, and maintainable
-- Treat security as a first-class requirement, not an afterthought
-- Test what matters, not everything indiscriminately
-- Ship iteratively, then improve
-- Keep learning — the field doesn't stand still
+| Principle | Description |
+|---|---|
+| **Understand first** | Clarify the problem before writing a single line of code |
+| **Design before code** | Architecture decisions come before implementation |
+| **Clean & maintainable** | Code should be as easy to read as it is to run |
+| **Security by default** | Treated as a core requirement, not an afterthought |
+| **Test what matters** | Targeted, meaningful coverage over box-checking |
+| **Ship, then improve** | Iterate in production-ready increments |
+| **Never stop learning** | The field moves — so do I |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1624,50:58A6FF,100:0B1624&animation=fadeIn" width="100%"/>
@@ -182,10 +278,13 @@ A full-stack transportation management platform built for real-time operational 
 
 <p align="center">
   <a href="https://github.com/eba2311">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
