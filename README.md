@@ -1,90 +1,71 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                         HERO                               -->
-
+<!--                           HEADER                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=EBA%20BAYANE&fontSize=64&fontAlignY=35&animation=fadeIn&fontColor=ffffff&color=0:05080D,35:0B1624,70:102A43,100:00BFFF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Eba%20Bayane&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:0B1624,50:102A43,100:0B1624" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=%F0%9F%92%BB+Software+Engineer;%F0%9F%9A%80+Full-Stack+Developer;%F0%9F%8F%97%EF%B8%8F+System+Design+Enthusiast;%E2%98%81%EF%B8%8F+Cloud+%7C+DevOps+%7C+Cybersecurity;%F0%9F%A4%96+Exploring+AI+%26+Intelligent+Systems;%E2%9A%A1+Building+Software+That+Matters" alt="Typing animation"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eba2311&style=for-the-badge&color=0ea5e9&label=%F0%9F%91%80+PROFILE+VIEWS"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;Cloud+%26+DevOps;Cybersecurity+%2B+AI" alt="Typing animation"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/eba2311">
-    <img src="https://img.shields.io/badge/%F0%9F%90%99%20GitHub-eba2311-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-eba2311-181717?style=flat-square&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=eba2311&style=flat-square&color=0ea5e9&label=Profile+Views"/>
 </p>
-
----
-
-# 👨‍💻 `~/whoami`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+developer+profile...;%3E+Loading+engineering+skills...;%3E+System+ready+%E2%9C%93" />
+  <em>Software Engineer building reliable, secure, and scalable systems.</em>
 </p>
-
-```javascript id="c3c1hj"
-const eba = {
-    👨‍💻 role: "Software Engineer",
-
-    🚀 specialization: [
-        "Full-Stack Development",
-        "Cloud Engineering",
-        "Cybersecurity",
-        "Artificial Intelligence"
-    ],
-
-    🧠 mindset: [
-        "Clean Architecture",
-        "Problem Solving",
-        "Secure Development",
-        "Continuous Learning"
-    ],
-
-    🎯 mission:
-        "Build reliable software that solves real-world problems."
-};
-```
 
 ---
 
-# ⚡ `~/engineering`
+## About
 
-<table>
+I'm a software engineer focused on full-stack development, cloud infrastructure, and secure system design. I care about clean architecture, thoughtful engineering trade-offs, and shipping software that holds up under real-world conditions. Currently deepening my expertise in cloud/DevOps, cybersecurity, and applied AI.
+
+**Core focus areas**
+- Full-stack web application development
+- Cloud infrastructure and DevOps practices
+- Secure-by-design system architecture
+- Applied AI and intelligent systems
+
+---
+
+## Technical Skills
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Software Engineering
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=js,python,java,cpp,php&perline=5"/></p>
 
-🔹 Full-Stack Applications
-🔹 REST API Development
-🔹 Real-Time Systems
-🔹 Database Architecture
-🔹 Authentication & RBAC
-🔹 System Design
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite&perline=6"/></p>
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🚀 Modern Engineering
+**Backend**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,python,php&perline=4"/></p>
 
-☁️ Cloud Computing
-🔄 DevOps & CI/CD
-🔐 Cybersecurity
-🤖 Artificial Intelligence
-📦 Containerization
-📈 Scalable Systems
+**Database**
+<p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&perline=4"/></p>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**Cloud, DevOps & Tooling**
+<p><img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman,aws&perline=7"/></p>
 
 </td>
 </tr>
@@ -92,199 +73,98 @@ const eba = {
 
 ---
 
-# 🛠️ `~/tech-stack`
+## Featured Project
 
-### 💻 Languages
+### Transportation Management System
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,java,cpp,php&perline=5"/>
+<p>
+  <img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
+A full-stack transportation management platform built for real-time operational visibility, combining live geospatial tracking with role-based access control.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite&perline=6"/>
-</p>
+**Key capabilities**
 
-### ⚙️ Backend
+| Feature | Feature |
+|---|---|
+| Real-time GPS tracking | Role-based access control |
+| Geospatial data (PostGIS) | Operational analytics |
+| WebSocket-based live updates | Multi-language support |
+| Cloud deployment | Responsive UI |
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,php&perline=4"/>
-</p>
+**Architecture**
 
-### 🗄️ Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&perline=4"/>
-</p>
-
-### ☁️ Cloud · DevOps · Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman&perline=6"/>
-</p>
-
----
-
-# 🔥 `~/current-focus`
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&width=750&lines=%F0%9F%94%A8+Building+production-ready+applications;%E2%98%81%EF%B8%8F+Learning+Cloud+%26+DevOps;%F0%9F%94%90+Strengthening+Cybersecurity;%F0%9F%A4%96+Exploring+Artificial+Intelligence;%F0%9F%8F%97%EF%B8%8F+Improving+system+design;%F0%9F%9A%80+Becoming+a+better+engineer" />
-
-</p>
-
----
-
-# 🚀 `~/featured-project`
-
-## 🚌 Transportation Management System
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20LIVE-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%E2%9A%9B%EF%B8%8F%20React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/%F0%9F%97%84%EF%B8%8F%20PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-</p>
-
-> 🚌 A full-stack transportation management platform designed for real-time transportation operations.
-
-### ✨ Features
-
-|     | Feature          |    | Feature        |
-| --- | ---------------- | -- | -------------- |
-| 🛰️ | Real-Time GPS    | 🔐 | RBAC           |
-| 🗺️ | Geospatial Data  | 📊 | Analytics      |
-| ⚡   | WebSockets       | 🌍 | Multi-Language |
-| ☁️  | Cloud Deployment | 📱 | Responsive UI  |
-
-### 🏗️ Architecture
-
-```text id="j0n8cr"
-        👤 USER
-          │
-          ▼
-   ┌───────────────┐
-   │ ⚛️ REACT APP  │
-   └───────┬───────┘
-           │
-      🔄 REST / WS
-           │
-           ▼
-   ┌───────────────┐
-   │ 🟢 NODE/EXPRESS│
-   │               │
-   │ 🔐 AUTH       │
-   │ 👥 RBAC       │
-   │ ⚡ REAL-TIME  │
-   └───────┬───────┘
-           │
-      ┌────┴────┐
-      ▼         ▼
-  🗄️ DB      🗺️ GIS
-  PostgreSQL  PostGIS
+```text
+                    ┌──────────────┐
+                    │  React App   │
+                    └──────┬───────┘
+                           │ REST / WebSocket
+                    ┌──────▼───────┐
+                    │ Node/Express │
+                    │  Auth · RBAC │
+                    │  Real-Time   │
+                    └──────┬───────┘
+                ┌──────────┴──────────┐
+        ┌───────▼───────┐    ┌────────▼───────┐
+        │  PostgreSQL    │    │    PostGIS     │
+        └────────────────┘    └────────────────┘
 ```
 
-<p align="center">
-<a href="https://github.com/eba2311/tmsm">
-<img src="https://img.shields.io/badge/%F0%9F%94%8E%20EXPLORE%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  <a href="https://github.com/eba2311/tmsm">
+    <img src="https://img.shields.io/badge/View%20Repository-58A6FF?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 📊 `~/github-analytics`
+## GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=eba2311&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=00D9FF&rank_icon=github"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=eba2311&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=00D9FF&rank_icon=github" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eba2311&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="49%"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eba2311&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
+  <img src="https://streak-stats.demolab.com/?user=eba2311&hide_border=true&background=0D1117&ring=00D9FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"/>
 </p>
 
----
-
-# 🔥 `~/consistency`
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=eba2311&hide_border=true&background=0D1117&ring=00D9FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"/>
-
+  <img src="https://raw.githubusercontent.com/eba2311/eba2311/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/>
 </p>
 
 ---
 
-# 🐍 `~/contribution-activity`
+## Engineering Principles
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/eba2311/eba2311/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/>
-
-</p>
-
----
-
-# 🧠 `~/developer-mindset`
-
-<p align="center">
-
-| 🧩  | Principle                           |
-| --- | ----------------------------------- |
-| 🎯  | **Understand the problem first**    |
-| 🏗️ | **Design before implementation**    |
-| ✨   | **Keep code clean and simple**      |
-| 🔐  | **Security is part of development** |
-| 🧪  | **Test what matters**               |
-| 🚀  | **Build → Ship → Improve**          |
-| 📚  | **Never stop learning**             |
-
-</p>
+- Understand the problem before writing code
+- Design before implementation
+- Keep code clean, readable, and maintainable
+- Treat security as a first-class requirement, not an afterthought
+- Test what matters, not everything indiscriminately
+- Ship iteratively, then improve
+- Keep learning — the field doesn't stand still
 
 ---
 
-# 📡 `~/system-status`
+## Connect
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=%5B+%E2%9C%93+%5D+SYSTEM+ONLINE;%5B+%E2%9C%93+%5D+BUILDING;%5B+%E2%9C%93+%5D+LEARNING;%5B+%E2%9C%93+%5D+SECURING;%5B+%E2%9C%93+%5D+INNOVATING" />
-
-</p>
-
----
-
-# 🌐 `~/connect`
-
-<p align="center">
-
-<a href="https://github.com/eba2311">
-<img src="https://img.shields.io/badge/%F0%9F%90%99%20GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
+  <a href="https://github.com/eba2311">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin"/>
+  </a>
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Thanks+for+visiting+my+profile;%F0%9F%9A%80+Let's+build+something+meaningful;%E2%9A%A1+Code.+Create.+Innovate." />
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:00BFFF,50:102A43,100:05080D&animation=fadeIn" width="100%"/>
+  <sub>Thanks for stopping by — always open to interesting engineering conversations.</sub>
 </p>
 
 <p align="center">
-  <b>💻 Build · 🚀 Ship · 🔐 Secure · 🤖 Innovate</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1624,50:102A43,100:0B1624" width="100%"/>
 </p>
