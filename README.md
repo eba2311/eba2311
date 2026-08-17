@@ -1,242 +1,178 @@
-<!-- ===================== HERO ===================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Eba%20Bayane&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+# EBA BAYANE
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Cloud+%7C+Cybersecurity+%7C+AI+%E2%98%81%EF%B8%8F;Building+Scalable+Digital+Solutions;Turning+Ideas+Into+Production+%E2%9A%A1" />
-</p>
+### Software Engineer · Full-Stack Developer
 
-<p align="center">
-  <a href="https://github.com/eba2311">
-    <img src="https://komarev.com/ghpvc/?username=eba2311&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;Designing+clean+software+systems;Exploring+Cloud%2C+Cybersecurity+%26+AI;Turning+ideas+into+reliable+products" />
 
-<br>
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/eba2311)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=eba2311\&style=flat-square\&color=58A6FF)](https://github.com/eba2311)
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+## About
 
-```javascript
-const eba = {
-    role: "Software Engineer",
-    focus: [
-        "Full-Stack Development",
-        "Cloud Computing",
-        "Cybersecurity",
-        "Artificial Intelligence"
-    ],
+I'm a **Software Engineering student and Full-Stack Developer** focused on designing and building modern software systems.
 
-    frontend: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Tailwind CSS"
-    ],
+My interests sit at the intersection of **software engineering, cloud infrastructure, cybersecurity, and artificial intelligence**.
 
-    backend: [
-        "Node.js",
-        "Express",
-        "Python",
-        "PHP"
-    ],
-
-    databases: [
-        "PostgreSQL",
-        "MySQL",
-        "MongoDB"
-    ],
-
-    currentlyLearning: [
-        "Cloud Architecture",
-        "DevOps",
-        "Cybersecurity",
-        "AI"
-    ],
-
-    philosophy:
-        "Build. Learn. Secure. Innovate."
-};
-```
-
----
-
-# ⚡ What I Do
-
-<p align="center">
-
-|  🚀 Development |      ☁️ Cloud      |   🔐 Security  |        🤖 AI        |
-| :-------------: | :----------------: | :------------: | :-----------------: |
-| Full-Stack Apps | Cloud Architecture |  Secure Coding |    AI Integration   |
-|    REST APIs    |     Deployment     |  Web Security  |   Machine Learning  |
-| Database Design |       DevOps       | Authentication | Intelligent Systems |
-|  Real-Time Apps |        CI/CD       |      RBAC      |      Automation     |
-
-</p>
-
----
-
-# 🧰 Tech Stack
-
-### 🎨 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite"/>
-</p>
-
-### ⚙️ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,java,cpp"/>
-</p>
-
-### 🗄️ Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase"/>
-</p>
-
-### ☁️ DevOps & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel"/>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=eba2311&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eba2311&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15"/>
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=eba2311&theme=tokyonight&hide_border=true&border_radius=15"/>
-</p>
-
----
-
-# 🐍 Contribution Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eba2311/eba2311/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-# 🚀 Featured Project
-
-## 🚌 Transportation Management System
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Supabase-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.IO-Real--Time-black?style=for-the-badge&logo=socket.io"/>
-</p>
-
-A production-oriented transportation management platform designed to provide:
-
-* 🗺️ Real-time GPS tracking
-* 👥 Role-Based Access Control
-* 📊 Analytics dashboards
-* 🔄 Real-time communication
-* 🌍 Multi-language support
-* 🗄️ PostgreSQL + PostGIS
-* ☁️ Cloud deployment
-* 🔐 Secure authentication
-
----
-
-# 📈 My Developer Journey
+I enjoy taking a problem from **architecture → development → deployment**, with an emphasis on clean code, maintainability, security, and user experience.
 
 ```text
-                    SOFTWARE ENGINEERING
-                             │
-             ┌───────────────┼───────────────┐
-             │               │               │
-          FRONTEND        BACKEND         DATABASE
-             │               │               │
-          React          Node.js          PostgreSQL
-          JavaScript     Express          MySQL
-          Tailwind       Python           MongoDB
-             │               │               │
-             └───────────────┼───────────────┘
-                             │
-                    FULL-STACK DEVELOPMENT
-                             │
-             ┌───────────────┼───────────────┐
-             │               │               │
-           CLOUD          SECURITY            AI
-             │               │               │
-           DevOps        Cybersecurity     Machine Learning
-           Docker        Secure Apps       Automation
-           CI/CD         Cloud Security    AI Systems
+Software Engineering
+       │
+       ├── Full-Stack Development
+       │      ├── React
+       │      ├── Node.js
+       │      └── Python
+       │
+       ├── Data & Backend
+       │      ├── PostgreSQL
+       │      ├── MySQL
+       │      └── MongoDB
+       │
+       ├── Cloud & DevOps
+       │      ├── Docker
+       │      ├── CI/CD
+       │      └── Cloud Deployment
+       │
+       └── Security & AI
+              ├── Cybersecurity
+              └── Artificial Intelligence
 ```
 
 ---
 
-# 🎯 Current Focus
+## Technology
 
-<p align="center">
+<div align="center">
 
-🔨 Building real-world applications
-☁️ Learning Cloud & DevOps
-🔐 Improving Cybersecurity skills
-🤖 Exploring Artificial Intelligence
-📚 Strengthening Software Engineering fundamentals
-🚀 Building production-ready systems
+### Languages
 
-</p>
+<img src="https://skillicons.dev/icons?i=js,python,java,cpp,php" />
 
----
+### Frontend & Backend
 
-# 🌟 Developer Philosophy
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind" />
 
-<p align="center">
+### Data
 
-### "Don't just write code."
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
 
-### "Build solutions."
+### Tools & Infrastructure
 
-### "Don't just build solutions."
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
 
-### "Build solutions that matter."
-
-</p>
+</div>
 
 ---
 
-# 📫 Connect With Me
+## Selected Work
 
-<p align="center">
+### Transportation Management System
 
-<a href="https://github.com/eba2311">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**Real-time transportation platform**
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+A full-stack system designed to manage transportation operations, users, routes, and real-time vehicle tracking.
 
-</p>
+**Architecture**
+
+`React` · `Node.js` · `Express` · `PostgreSQL` · `PostGIS` · `Socket.IO`
+
+**Highlights**
+
+* Real-time vehicle tracking
+* Role-based access control
+* Analytics dashboards
+* Real-time communication
+* Geospatial data processing
+* Cloud deployment
+* Responsive interface
+
+**Repository:**
+https://github.com/eba2311/tmsm
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&animation=fadeIn"/>
-</p>
+## Engineering Focus
 
-<p align="center">
-  <b>⚡ Build • Learn • Secure • Innovate ⚡</b>
-</p>
+| Area         | Focus                               |
+| ------------ | ----------------------------------- |
+| **Frontend** | React, JavaScript, responsive UI    |
+| **Backend**  | Node.js, Express, Python, REST APIs |
+| **Database** | PostgreSQL, MySQL, MongoDB          |
+| **Cloud**    | Deployment, infrastructure, CI/CD   |
+| **Security** | Secure application development      |
+| **AI**       | Intelligent systems & automation    |
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=eba2311&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eba2311&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=eba2311&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+</div>
+
+---
+
+## Currently
+
+```text
+→ Building full-stack applications
+→ Improving system design skills
+→ Exploring cloud & DevOps
+→ Learning cybersecurity
+→ Exploring AI-powered applications
+→ Contributing to meaningful software projects
+```
+
+---
+
+## Principles
+
+> **Clean code.**
+
+> **Simple architecture.**
+
+> **Secure systems.**
+
+> **Continuous learning.**
+
+> **Software that solves real problems.**
+
+---
+
+<div align="center">
+
+### Let's build something meaningful.
+
+<br/>
+
+**Eba Bayane**
+*Software Engineer · Full-Stack Developer*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer"/>
+
+</div>
