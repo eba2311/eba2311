@@ -3,41 +3,41 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=EBA%20BAYANA&fontSize=52&fontAlignY=32&animation=fadeIn&fontColor=ffffff&color=0:0a192f,35:1a365d,70:233876,100:0a192f&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=cbd5e1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=EBA%20BAYANA%20DUGASA&fontSize=46&fontAlignY=32&animation=fadeIn&fontColor=ffffff&color=0:1a0000,35:4a0000,70:8b0000,100:1a0000&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=e0e0e0" width="100%"/>
 </p>
 
-<!-- ANIMATED BANNER -->
+<!-- ANIMATED BANNER - RED THEME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=750&height=60&lines=Building+Modern+Applications;Full-Stack+Development;Cloud-Native+Solutions;EBA+BAYANA+%E2%80%A2+Developer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=750&height=60&lines=Building+Modern+Applications;Full-Stack+Development;Cloud-Native+Solutions;EBA+BAYANA+DUGASA" alt="Typing SVG"/>
 </p>
 
-<!-- SOCIAL BADGES -->
+<!-- SOCIAL BADGES - RED & BLACK -->
 <p align="center">
   <a href="https://github.com/eba2311">
-    <img src="https://img.shields.io/badge/GitHub-@ebayana-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b"/>
+    <img src="https://img.shields.io/badge/GitHub-@ebayana-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0000&color=000000"/>
   </a>
   <a href="https://linkedin.com/in/ebayane">
-    <img src="https://img.shields.io/badge/LinkedIn-Eba%20Bayana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Eba%20Bayana%20Dugasa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0000"/>
   </a>
   <a href="mailto:eba.bayane@email.com">
-    <img src="https://img.shields.io/badge/Email-eba.bayana%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b"/>
+    <img src="https://img.shields.io/badge/Email-eba.bayana%40email.com-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0000"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-ebayana.dev-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e293b"/>
+    <img src="https://img.shields.io/badge/Portfolio-ebayana.dev-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0000"/>
   </a>
 </p>
 
-<!-- METRICS -->
+<!-- METRICS - RED THEME -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eba2311&style=flat-square&color=60A5FA&label=PROFILE%20VIEWS&labelColor=1e293b"/>
-  <img src="https://img.shields.io/github/followers/eba2311?style=flat-square&color=60A5FA&label=FOLLOWERS&labelColor=1e293b"/>
-  <img src="https://img.shields.io/github/stars/eba2311?style=flat-square&color=60A5FA&label=STARS&labelColor=1e293b"/>
+  <img src="https://komarev.com/ghpvc/?username=eba2311&style=flat-square&color=FF0000&label=PROFILE%20VIEWS&labelColor=1a0000"/>
+  <img src="https://img.shields.io/github/followers/eba2311?style=flat-square&color=FF0000&label=FOLLOWERS&labelColor=1a0000"/>
+  <img src="https://img.shields.io/github/stars/eba2311?style=flat-square&color=FF0000&label=STARS&labelColor=1a0000"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <em style="color:#94a3b8;">"Passionate about building scalable, user-centric applications."</em>
+  <em style="color:#cccccc;">"Passionate about building scalable, user-centric applications with precision and excellence."</em>
 </p>
 
 <br/>
@@ -47,11 +47,11 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <a href="#profile"><img src="https://img.shields.io/badge/Profile-1e293b?style=for-the-badge&logo=readme&logoColor=60A5FA"/></a>
-  <a href="#expertise"><img src="https://img.shields.io/badge/Expertise-1e293b?style=for-the-badge&logo=code&logoColor=60A5FA"/></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/Projects-1e293b?style=for-the-badge&logo=github&logoColor=60A5FA"/></a>
-  <a href="#analytics"><img src="https://img.shields.io/badge/Analytics-1e293b?style=for-the-badge&logo=chartdotjs&logoColor=60A5FA"/></a>
-  <a href="#connect"><img src="https://img.shields.io/badge/Connect-1e293b?style=for-the-badge&logo=linktree&logoColor=60A5FA"/></a>
+  <a href="#profile"><img src="https://img.shields.io/badge/Profile-1a0000?style=for-the-badge&logo=readme&logoColor=FF0000"/></a>
+  <a href="#expertise"><img src="https://img.shields.io/badge/Expertise-1a0000?style=for-the-badge&logo=code&logoColor=FF0000"/></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/Projects-1a0000?style=for-the-badge&logo=github&logoColor=FF0000"/></a>
+  <a href="#analytics"><img src="https://img.shields.io/badge/Analytics-1a0000?style=for-the-badge&logo=chartdotjs&logoColor=FF0000"/></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/Connect-1a0000?style=for-the-badge&logo=linktree&logoColor=FF0000"/></a>
 </p>
 
 <br/>
@@ -60,35 +60,35 @@
 <!--              PROFESSIONAL PROFILE                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/▸_PROFESSIONAL_PROFILE-60A5FA?style=flat-square&labelColor=1e293b"/> 
+## <img src="https://img.shields.io/badge/▸_PROFESSIONAL_PROFILE-FF0000?style=flat-square&labelColor=1a0000"/> 
 
 <blockquote>
   <p align="justify">
-    <strong>Eba Bayana</strong> is a dedicated software engineer with a passion for full-stack development and cloud-native applications. With 1+ year of professional experience, Eba has demonstrated strong capabilities in designing, building, and deploying modern web applications. Committed to writing clean, maintainable code and continuously learning emerging technologies.
+    <strong style="color:#FF0000;">Eba Bayana Dugasa</strong> is a dedicated software engineer with a passion for full-stack development and cloud-native applications. With 1+ year of professional experience, Eba has demonstrated strong capabilities in designing, building, and deploying modern web applications. Committed to writing clean, maintainable code and continuously learning emerging technologies.
   </p>
 </blockquote>
 
-<!-- KEY METRICS -->
+<!-- KEY METRICS - RED THEME -->
 <br/>
 
 <p align="center">
   <table>
     <tr>
-      <td align="center" width="20%" style="border:1px solid #334155; border-radius:8px; padding:10px;">
-        <h2 style="color:#60A5FA; margin:5px;">1+</h2>
-        <p style="color:#94a3b8; margin:0; font-size:12px;">YEAR EXPERIENCE</p>
+      <td align="center" width="20%" style="border:1px solid #660000; border-radius:8px; padding:10px; background:0a0000;">
+        <h2 style="color:#FF0000; margin:5px;">1+</h2>
+        <p style="color:#cccccc; margin:0; font-size:12px;">YEAR EXPERIENCE</p>
       </td>
-      <td align="center" width="20%" style="border:1px solid #334155; border-radius:8px; padding:10px;">
-        <h2 style="color:#60A5FA; margin:5px;">15+</h2>
-        <p style="color:#94a3b8; margin:0; font-size:12px;">PROJECTS BUILT</p>
+      <td align="center" width="20%" style="border:1px solid #660000; border-radius:8px; padding:10px; background:0a0000;">
+        <h2 style="color:#FF0000; margin:5px;">15+</h2>
+        <p style="color:#cccccc; margin:0; font-size:12px;">PROJECTS BUILT</p>
       </td>
-      <td align="center" width="20%" style="border:1px solid #334155; border-radius:8px; padding:10px;">
-        <h2 style="color:#60A5FA; margin:5px;">500+</h2>
-        <p style="color:#94a3b8; margin:0; font-size:12px;">CONTRIBUTIONS</p>
+      <td align="center" width="20%" style="border:1px solid #660000; border-radius:8px; padding:10px; background:0a0000;">
+        <h2 style="color:#FF0000; margin:5px;">500+</h2>
+        <p style="color:#cccccc; margin:0; font-size:12px;">CONTRIBUTIONS</p>
       </td>
-      <td align="center" width="20%" style="border:1px solid #334155; border-radius:8px; padding:10px;">
-        <h2 style="color:#60A5FA; margin:5px;">8+</h2>
-        <p style="color:#94a3b8; margin:0; font-size:12px;">TECH STACKS</p>
+      <td align="center" width="20%" style="border:1px solid #660000; border-radius:8px; padding:10px; background:0a0000;">
+        <h2 style="color:#FF0000; margin:5px;">8+</h2>
+        <p style="color:#cccccc; margin:0; font-size:12px;">TECH STACKS</p>
       </td>
     </tr>
   </table>
@@ -100,31 +100,31 @@
 <!--              TECHNICAL EXPERTISE                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/▸_TECHNICAL_EXPERTISE-60A5FA?style=flat-square&labelColor=1e293b"/> 
+## <img src="https://img.shields.io/badge/▸_TECHNICAL_EXPERTISE-FF0000?style=flat-square&labelColor=1a0000"/> 
 
 <!-- LANGUAGES -->
-<h3 align="center">Languages & Frameworks</h3>
+<h3 align="center" style="color:#FF0000;">Languages & Frameworks</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,go&perline=5&theme=dark"/>
 </p>
 
 <!-- FRONTEND -->
-<h3 align="center">Frontend Development</h3>
+<h3 align="center" style="color:#FF0000;">Frontend Development</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=5&theme=dark"/>
 </p>
 
 <!-- BACKEND -->
-<h3 align="center">Backend & Database</h3>
+<h3 align="center" style="color:#FF0000;">Backend & Database</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb&perline=5&theme=dark"/>
 </p>
 
 <!-- CLOUD & TOOLS -->
-<h3 align="center">Cloud & DevOps Tools</h3>
+<h3 align="center" style="color:#FF0000;">Cloud & DevOps Tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git&perline=5&theme=dark"/>
@@ -136,32 +136,32 @@
 <!--              CORE COMPETENCIES                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/▸_CORE_COMPETENCIES-60A5FA?style=flat-square&labelColor=1e293b"/> 
+## <img src="https://img.shields.io/badge/▸_CORE_COMPETENCIES-FF0000?style=flat-square&labelColor=1a0000"/> 
 
 <table>
   <tr>
-    <td valign="top" width="50%" style="border:1px solid #334155; padding:15px; border-radius:8px;">
+    <td valign="top" width="50%" style="border:1px solid #660000; padding:15px; border-radius:8px; background:0a0000;">
       
 #### 🏗️ Development Skills
       
-- <strong>Frontend:</strong> React, Next.js, Tailwind CSS
-- <strong>Backend:</strong> Node.js, Express, REST APIs
-- <strong>Database:</strong> PostgreSQL, MongoDB, MySQL
-- <strong>Authentication:</strong> JWT, OAuth2, Session Management
-- <strong>Testing:</strong> Unit Testing, Integration Testing
-- <strong>Version Control:</strong> Git, GitHub Workflows
+- <strong style="color:#FF0000;">Frontend:</strong> <span style="color:#cccccc;">React, Next.js, Tailwind CSS</span>
+- <strong style="color:#FF0000;">Backend:</strong> <span style="color:#cccccc;">Node.js, Express, REST APIs</span>
+- <strong style="color:#FF0000;">Database:</strong> <span style="color:#cccccc;">PostgreSQL, MongoDB, MySQL</span>
+- <strong style="color:#FF0000;">Authentication:</strong> <span style="color:#cccccc;">JWT, OAuth2, Session Management</span>
+- <strong style="color:#FF0000;">Testing:</strong> <span style="color:#cccccc;">Unit Testing, Integration Testing</span>
+- <strong style="color:#FF0000;">Version Control:</strong> <span style="color:#cccccc;">Git, GitHub Workflows</span>
 
     </td>
-    <td valign="top" width="50%" style="border:1px solid #334155; padding:15px; border-radius:8px;">
+    <td valign="top" width="50%" style="border:1px solid #660000; padding:15px; border-radius:8px; background:0a0000;">
       
 #### ☁️ DevOps & Tools
       
-- <strong>Cloud:</strong> AWS (EC2, S3, RDS, Lambda)
-- <strong>Containers:</strong> Docker, Kubernetes basics
-- <strong>CI/CD:</strong> GitHub Actions, Jenkins
-- <strong>Infrastructure:</strong> Terraform basics
-- <strong>Monitoring:</strong> Prometheus, Grafana
-- <strong>Agile:</strong> Scrum, Kanban, Jira
+- <strong style="color:#FF0000;">Cloud:</strong> <span style="color:#cccccc;">AWS (EC2, S3, RDS, Lambda)</span>
+- <strong style="color:#FF0000;">Containers:</strong> <span style="color:#cccccc;">Docker, Kubernetes basics</span>
+- <strong style="color:#FF0000;">CI/CD:</strong> <span style="color:#cccccc;">GitHub Actions, Jenkins</span>
+- <strong style="color:#FF0000;">Infrastructure:</strong> <span style="color:#cccccc;">Terraform basics</span>
+- <strong style="color:#FF0000;">Monitoring:</strong> <span style="color:#cccccc;">Prometheus, Grafana</span>
+- <strong style="color:#FF0000;">Agile:</strong> <span style="color:#cccccc;">Scrum, Kanban, Jira</span>
 
     </td>
   </tr>
@@ -173,47 +173,47 @@
 <!--              FEATURED PROJECTS                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/▸_FEATURED_PROJECTS-60A5FA?style=flat-square&labelColor=1e293b"/> 
+## <img src="https://img.shields.io/badge/▸_FEATURED_PROJECTS-FF0000?style=flat-square&labelColor=1a0000"/> 
 
-<h3 align="center">📊 TaskFlow — Project Management App</h3>
+<h3 align="center" style="color:#FF0000;">📊 TaskFlow — Project Management App</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Deployed-22C55E?style=flat-square&labelColor=1e293b"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1e293b"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=1e293b"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=1e293b"/>
+  <img src="https://img.shields.io/badge/Status-Deployed-22C55E?style=flat-square&labelColor=1a0000"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1a0000"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=1a0000"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a0000"/>
 </p>
 
 <blockquote>
   <p align="justify">
-    A full-stack project management application with real-time collaboration, task tracking, and team analytics.
+    A full-stack project management application with real-time collaboration, task tracking, and team analytics. Built with React, Node.js, and PostgreSQL.
   </p>
 </blockquote>
 
 <table>
   <tr>
-    <td valign="top" width="50%" style="border:1px solid #334155; padding:12px; border-radius:8px;">
+    <td valign="top" width="50%" style="border:1px solid #660000; padding:12px; border-radius:8px; background:0a0000;">
       
 #### 🎯 Key Features
       
-- User authentication with JWT
-- Real-time task updates
-- Drag-and-drop board
-- Team collaboration
-- Progress analytics
-- Responsive design
+- <span style="color:#cccccc;">User authentication with JWT</span>
+- <span style="color:#cccccc;">Real-time task updates</span>
+- <span style="color:#cccccc;">Drag-and-drop board</span>
+- <span style="color:#cccccc;">Team collaboration</span>
+- <span style="color:#cccccc;">Progress analytics</span>
+- <span style="color:#cccccc;">Responsive design</span>
 
     </td>
-    <td valign="top" width="50%" style="border:1px solid #334155; padding:12px; border-radius:8px;">
+    <td valign="top" width="50%" style="border:1px solid #660000; padding:12px; border-radius:8px; background:0a0000;">
       
 #### 🛠️ Tech Stack
       
-- <strong>Frontend:</strong> React, Tailwind CSS
-- <strong>Backend:</strong> Node.js, Express
-- <strong>Database:</strong> PostgreSQL, Prisma
-- <strong>Auth:</strong> JWT, bcrypt
-- <strong>Deployment:</strong> Vercel, Railway
-- <strong>CI/CD:</strong> GitHub Actions
+- <strong style="color:#FF0000;">Frontend:</strong> <span style="color:#cccccc;">React, Tailwind CSS</span>
+- <strong style="color:#FF0000;">Backend:</strong> <span style="color:#cccccc;">Node.js, Express</span>
+- <strong style="color:#FF0000;">Database:</strong> <span style="color:#cccccc;">PostgreSQL, Prisma</span>
+- <strong style="color:#FF0000;">Auth:</strong> <span style="color:#cccccc;">JWT, bcrypt</span>
+- <strong style="color:#FF0000;">Deployment:</strong> <span style="color:#cccccc;">Vercel, Railway</span>
+- <strong style="color:#FF0000;">CI/CD:</strong> <span style="color:#cccccc;">GitHub Actions</span>
 
     </td>
   </tr>
@@ -221,21 +221,21 @@
 
 <p align="center">
   <a href="https://github.com/eba2311/taskflow">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b"/>
+    <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0000&color=FF0000"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e293b"/>
+    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0000"/>
   </a>
 </p>
 
-<hr style="border:1px solid #334155;"/>
+<hr style="border:1px solid #660000;"/>
 
-<h3 align="center">☀️ WeatherDash — Weather Dashboard</h3>
+<h3 align="center" style="color:#FF0000;">☀️ WeatherDash — Weather Dashboard</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square&labelColor=1e293b"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1e293b"/>
-  <img src="https://img.shields.io/badge/API-OpenWeather-FF6B6B?style=flat-square&labelColor=1e293b"/>
+  <img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square&labelColor=1a0000"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1a0000"/>
+  <img src="https://img.shields.io/badge/API-OpenWeather-FF6B6B?style=flat-square&labelColor=1a0000"/>
 </p>
 
 <blockquote>
@@ -246,7 +246,7 @@
 
 <p align="center">
   <a href="https://github.com/eba2311/weatherdash">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b"/>
+    <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0000&color=FF0000"/>
   </a>
 </p>
 
@@ -256,7 +256,7 @@
 <!--           SMART ANIMATED CONTRIBUTION WIDGETS              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/▸_SMART_CONTRIBUTION_ANALYTICS-60A5FA?style=flat-square&labelColor=1e293b"/> 
+## <img src="https://img.shields.io/badge/▸_SMART_CONTRIBUTION_ANALYTICS-FF0000?style=flat-square&labelColor=1a0000"/> 
 
 <!-- CONTRIBUTION ACTIVITY METRICS -->
 <br/>
@@ -264,25 +264,25 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center" style="border:1px solid #334155; border-radius:8px; padding:12px;">
-        <h4 style="color:#60A5FA; margin:0;">📊 Total Contributions</h4>
-        <h2 style="color:#22C55E; margin:5px;">524</h2>
-        <p style="color:#94a3b8; margin:0; font-size:11px;">Last 12 Months</p>
+      <td align="center" style="border:1px solid #660000; border-radius:8px; padding:12px; background:0a0000;">
+        <h4 style="color:#FF0000; margin:0;">📊 Total Contributions</h4>
+        <h2 style="color:#FF0000; margin:5px;">524</h2>
+        <p style="color:#cccccc; margin:0; font-size:11px;">Last 12 Months</p>
       </td>
-      <td align="center" style="border:1px solid #334155; border-radius:8px; padding:12px;">
-        <h4 style="color:#60A5FA; margin:0;">🔥 Current Streak</h4>
-        <h2 style="color:#F59E0B; margin:5px;">12</h2>
-        <p style="color:#94a3b8; margin:0; font-size:11px;">Days in a Row</p>
+      <td align="center" style="border:1px solid #660000; border-radius:8px; padding:12px; background:0a0000;">
+        <h4 style="color:#FF0000; margin:0;">🔥 Current Streak</h4>
+        <h2 style="color:#FF4444; margin:5px;">12</h2>
+        <p style="color:#cccccc; margin:0; font-size:11px;">Days in a Row</p>
       </td>
-      <td align="center" style="border:1px solid #334155; border-radius:8px; padding:12px;">
-        <h4 style="color:#60A5FA; margin:0;">⭐ Most Active</h4>
-        <h2 style="color:#8B5CF6; margin:5px;">6h</h2>
-        <p style="color:#94a3b8; margin:0; font-size:11px;">Peak Coding Time</p>
+      <td align="center" style="border:1px solid #660000; border-radius:8px; padding:12px; background:0a0000;">
+        <h4 style="color:#FF0000; margin:0;">⭐ Most Active</h4>
+        <h2 style="color:#FF6666; margin:5px;">6h</h2>
+        <p style="color:#cccccc; margin:0; font-size:11px;">Peak Coding Time</p>
       </td>
-      <td align="center" style="border:1px solid #334155; border-radius:8px; padding:12px;">
-        <h4 style="color:#60A5FA; margin:0;">🚀 Repos Created</h4>
-        <h2 style="color:#EC4899; margin:5px;">12</h2>
-        <p style="color:#94a3b8; margin:0; font-size:11px;">Public Repositories</p>
+      <td align="center" style="border:1px solid #660000; border-radius:8px; padding:12px; background:0a0000;">
+        <h4 style="color:#FF0000; margin:0;">🚀 Repos Created</h4>
+        <h2 style="color:#FF8888; margin:5px;">12</h2>
+        <p style="color:#cccccc; margin:0; font-size:11px;">Public Repositories</p>
       </td>
     </tr>
   </table>
@@ -292,37 +292,37 @@
 
 <!-- ANIMATED CONTRIBUTION SNAKE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eba2311/eba2311/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/eba2311/eba2311/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
   <br/>
-  <sub style="color:#64748b;">🐍 Contribution activity — Green squares represent your active days</sub>
+  <sub style="color:#888888;">🐍 Contribution activity — Red squares represent your active days</sub>
 </p>
 
 <br/>
 
-<!-- PROFESSIONAL STATS CARDS -->
+<!-- PROFESSIONAL STATS CARDS - RED THEME -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eba2311&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&icon_color=60A5FA&rank_icon=github&custom_title=EBA%20BAYANA%20-%20GitHub%20Performance" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eba2311&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&custom_title=Technology%20Distribution" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eba2311&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0000&title_color=FF0000&text_color=cccccc&icon_color=FF0000&rank_icon=github&custom_title=EBA%20BAYANA%20DUGASA%20-%20GitHub%20Performance" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eba2311&layout=compact&langs_count=8&hide_border=true&bg_color=0a0000&title_color=FF0000&text_color=cccccc&custom_title=Technology%20Distribution" width="49%"/>
 </p>
 
-<!-- CONTRIBUTION STREAK -->
+<!-- CONTRIBUTION STREAK - RED THEME -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=eba2311&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=8B949E&stroke=60A5FA&sideNums=60A5FA&currStreakNum=60A5FA&custom_title=EBA%20BAYANA%20-%20Commit%20Streak" alt="Contribution Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=eba2311&hide_border=true&background=0a0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=cccccc&dates=888888&stroke=660000&sideNums=FF0000&currStreakNum=FF0000&custom_title=EBA%20BAYANA%20DUGASA%20-%20Commit%20Streak" alt="Contribution Streak"/>
 </p>
 
-<!-- ADVANCED ACTIVITY GRAPH -->
+<!-- ADVANCED ACTIVITY GRAPH - RED THEME -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eba2311&bg_color=0D1117&color=60A5FA&line=60A5FA&point=C9D1D9&area=true&hide_border=true&custom_title=EBA%20BAYANA%20-%20Commit%20Activity%20Timeline" width="100%" alt="Commit Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eba2311&bg_color=0a0000&color=FF0000&line=FF0000&point=FF4444&area=true&hide_border=true&custom_title=EBA%20BAYANA%20DUGASA%20-%20Commit%20Activity%20Timeline" width="100%" alt="Commit Activity Graph"/>
 </p>
 
 <!-- CONTRIBUTION CALENDAR -->
 <br/>
 
-<h3 align="center" style="color:#60A5FA;">📅 Weekly Contribution Calendar</h3>
+<h3 align="center" style="color:#FF0000;">📅 Weekly Contribution Calendar</h3>
 
 <p align="center">
-  <table style="border:1px solid #334155; border-radius:8px;">
-    <tr align="center" style="color:#94a3b8;">
+  <table style="border:1px solid #660000; border-radius:8px; background:0a0000;">
+    <tr align="center" style="color:#cccccc;">
       <td width="14%">Mon</td>
       <td width="14%">Tue</td>
       <td width="14%">Wed</td>
@@ -331,17 +331,17 @@
       <td width="14%">Sat</td>
       <td width="14%">Sun</td>
     </tr>
-    <tr align="center" style="color:#60A5FA;">
-      <td style="background:rgba(96,165,250,0.1); border-radius:4px;">24</td>
-      <td style="background:rgba(96,165,250,0.2); border-radius:4px;">31</td>
-      <td style="background:rgba(96,165,250,0.4); border-radius:4px;">42</td>
-      <td style="background:rgba(96,165,250,0.6); border-radius:4px;">38</td>
-      <td style="background:rgba(96,165,250,0.8); border-radius:4px;">45</td>
-      <td style="background:rgba(96,165,250,0.3); border-radius:4px;">12</td>
-      <td style="background:rgba(96,165,250,0.1); border-radius:4px;">8</td>
+    <tr align="center" style="color:#FF0000;">
+      <td style="background:rgba(255,0,0,0.1); border-radius:4px;">24</td>
+      <td style="background:rgba(255,0,0,0.2); border-radius:4px;">31</td>
+      <td style="background:rgba(255,0,0,0.4); border-radius:4px;">42</td>
+      <td style="background:rgba(255,0,0,0.6); border-radius:4px;">38</td>
+      <td style="background:rgba(255,0,0,0.8); border-radius:4px;">45</td>
+      <td style="background:rgba(255,0,0,0.3); border-radius:4px;">12</td>
+      <td style="background:rgba(255,0,0,0.1); border-radius:4px;">8</td>
     </tr>
-    <tr align="center" style="color:#64748b; font-size:11px;">
-      <td colspan="7">Most productive day: Friday — 45 commits this week</td>
+    <tr align="center" style="color:#888888; font-size:11px;">
+      <td colspan="7">🔥 Most productive day: Friday — 45 commits this week</td>
     </tr>
   </table>
 </p>
@@ -352,40 +352,40 @@
 <!--           PROFESSIONAL DEVELOPMENT                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/▸_PROFESSIONAL_DEVELOPMENT-60A5FA?style=flat-square&labelColor=1e293b"/> 
+## <img src="https://img.shields.io/badge/▸_PROFESSIONAL_DEVELOPMENT-FF0000?style=flat-square&labelColor=1a0000"/> 
 
 <table>
   <tr>
-    <td valign="top" width="33%" style="border:1px solid #334155; padding:12px; border-radius:8px;">
+    <td valign="top" width="33%" style="border:1px solid #660000; padding:12px; border-radius:8px; background:0a0000;">
       
 #### 📜 Certifications
       
-- ✅ AWS Certified Cloud Practitioner
-- ✅ JavaScript (FreeCodeCamp)
-- 🔄 AWS Solutions Architect — In Progress
-- 🔄 Kubernetes Basics — Learning
+- <span style="color:#cccccc;">✅ AWS Certified Cloud Practitioner</span>
+- <span style="color:#cccccc;">✅ JavaScript (FreeCodeCamp)</span>
+- <span style="color:#cccccc;">🔄 AWS Solutions Architect — In Progress</span>
+- <span style="color:#cccccc;">🔄 Kubernetes Basics — Learning</span>
 
     </td>
-    <td valign="top" width="33%" style="border:1px solid #334155; padding:12px; border-radius:8px;">
+    <td valign="top" width="33%" style="border:1px solid #660000; padding:12px; border-radius:8px; background:0a0000;">
       
 #### 📚 Current Learning
       
-- Advanced React & Next.js
-- Cloud Architecture & AWS
-- System Design Fundamentals
-- DevOps & CI/CD Pipelines
-- TypeScript Mastery
+- <span style="color:#cccccc;">Advanced React & Next.js</span>
+- <span style="color:#cccccc;">Cloud Architecture & AWS</span>
+- <span style="color:#cccccc;">System Design Fundamentals</span>
+- <span style="color:#cccccc;">DevOps & CI/CD Pipelines</span>
+- <span style="color:#cccccc;">TypeScript Mastery</span>
 
     </td>
-    <td valign="top" width="33%" style="border:1px solid #334155; padding:12px; border-radius:8px;">
+    <td valign="top" width="33%" style="border:1px solid #660000; padding:12px; border-radius:8px; background:0a0000;">
       
 #### 🎯 Career Goals
       
-- Contribute to Open Source
-- Build Full-Stack SaaS Products
-- Achieve Cloud Certifications
-- Mentor Junior Developers
-- Continuous Learning
+- <span style="color:#cccccc;">Contribute to Open Source</span>
+- <span style="color:#cccccc;">Build Full-Stack SaaS Products</span>
+- <span style="color:#cccccc;">Achieve Cloud Certifications</span>
+- <span style="color:#cccccc;">Mentor Junior Developers</span>
+- <span style="color:#cccccc;">Continuous Learning</span>
 
     </td>
   </tr>
@@ -397,34 +397,34 @@
 <!--                    CONNECT                                 -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/▸_CONNECT_&_COLLABORATE-60A5FA?style=flat-square&labelColor=1e293b"/> 
+## <img src="https://img.shields.io/badge/▸_CONNECT_&_COLLABORATE-FF0000?style=flat-square&labelColor=1a0000"/> 
 
 <p align="center">
-  <em>Open to collaboration, learning opportunities, and interesting conversations.</em>
+  <em style="color:#cccccc;">Open to collaboration, learning opportunities, and interesting conversations.</em>
 </p>
 
 <br/>
 
 <p align="center">
   <a href="mailto:eba.bayane@email.com">
-    <img src="https://img.shields.io/badge/Email-eba.bayana%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b"/>
+    <img src="https://img.shields.io/badge/Email-eba.bayana%40email.com-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0000"/>
   </a>
   <a href="https://linkedin.com/in/ebayane">
-    <img src="https://img.shields.io/badge/LinkedIn-Eba%20Bayana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Eba%20Bayana%20Dugasa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0000"/>
   </a>
   <a href="https://github.com/eba2311">
-    <img src="https://img.shields.io/badge/GitHub-ebayana-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b"/>
+    <img src="https://img.shields.io/badge/GitHub-ebayana-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0000"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-ebayana.dev-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e293b"/>
+    <img src="https://img.shields.io/badge/Portfolio-ebayana.dev-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0000"/>
   </a>
 </p>
 
 <br/>
 
-<!-- ANIMATED CLOSING QUOTE -->
+<!-- ANIMATED CLOSING QUOTE - RED THEME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&duration=5000&pause=2000&color=94A3B8&center=true&vCenter=true&width=550&height=40;lines=Building+the+future%2C+one+commit+at+a+time;Thank+you+for+visiting!+Let's+connect" alt="Closing Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&duration=5000&pause=2000&color=FF0000&center=true&vCenter=true&width=550&height=40&lines=Building+the+future%2C+one+commit+at+a+time;Thank+you+for+visiting!+Let's+connect" alt="Closing Typing"/>
 </p>
 
 <br/>
@@ -434,24 +434,24 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0a192f,35:1a365d,70:233876,100:0a192f" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1a0000,35:4a0000,70:8b0000,100:1a0000" width="100%"/>
 </p>
 
 <p align="center">
   <table style="border:none;">
     <tr>
       <td align="center" style="border:none; padding:5px;">
-        <strong style="color:#60A5FA; font-size:16px;">EBA BAYANA</strong>
+        <strong style="color:#FF0000; font-size:18px;">EBA BAYANA DUGASA</strong>
         <br/>
-        <span style="color:#94a3b8; font-size:12px;">Software Engineer | Full-Stack Developer</span>
+        <span style="color:#cccccc; font-size:13px;">Software Engineer | Full-Stack Developer</span>
         <br/>
-        <span style="color:#64748b; font-size:11px;">© 2024 — Built with passion. Growing every day.</span>
+        <span style="color:#888888; font-size:11px;">© 2024 — Built with passion. Growing every day.</span>
       </td>
     </tr>
   </table>
 </p>
 
-<!-- ANIMATED FOOTER MOTTO -->
+<!-- ANIMATED FOOTER MOTTO - RED THEME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=12&duration=6000&pause=1000&color=64748B&center=true&vCenter=true&width=450&height=25&lines=EBA+BAYANA+•+Always+building+•+Always+learning" alt="Footer Motto"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=12&duration=6000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&height=25&lines=EBA+BAYANA+DUGASA+•+Always+building+•+Always+learning" alt="Footer Motto"/>
 </p>
