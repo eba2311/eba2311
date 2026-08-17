@@ -1,178 +1,387 @@
-<div align="center">
+<!-- ========================================================= -->
 
-# EBA BAYANE
+<!--                       ANIMATED HERO                        -->
 
-### Software Engineer · Full-Stack Developer
+<!-- ========================================================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;Designing+clean+software+systems;Exploring+Cloud%2C+Cybersecurity+%26+AI;Turning+ideas+into+reliable+products" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:161B22,100:00BFFF&text=EBA%20BAYANE&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descSize=16&descAlignY=58&descColor=58A6FF"/>
+</p>
+
+<!-- ========================================================= -->
+
+<!--                    ANIMATED TYPING                         -->
+
+<!-- ========================================================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+Full-Stack+Developer;Building+Scalable+%26+Secure+Applications;React+%7C+Node.js+%7C+Python+%7C+PostgreSQL;Cloud+%7C+DevOps+%7C+Cybersecurity+%7C+AI;Turning+Ideas+Into+Production-Ready+Software" />
+</p>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/eba2311)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
-[![Profile Views](https://komarev.com/ghpvc/?username=eba2311\&style=flat-square\&color=58A6FF)](https://github.com/eba2311)
+<p align="center">
 
-</div>
+<a href="https://github.com/eba2311">
+<img src="https://img.shields.io/badge/GitHub-eba2311-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=eba2311&style=for-the-badge&color=00BFFF&label=PROFILE+VIEWS"/>
+
+</p>
 
 ---
 
-## About
+<!-- ========================================================= -->
 
-I'm a **Software Engineering student and Full-Stack Developer** focused on designing and building modern software systems.
+<!--                       ABOUT                                -->
 
-My interests sit at the intersection of **software engineering, cloud infrastructure, cybersecurity, and artificial intelligence**.
+<!-- ========================================================= -->
 
-I enjoy taking a problem from **architecture → development → deployment**, with an emphasis on clean code, maintainability, security, and user experience.
+## `> whoami`
 
-```text
-Software Engineering
-       │
-       ├── Full-Stack Development
-       │      ├── React
-       │      ├── Node.js
-       │      └── Python
-       │
-       ├── Data & Backend
-       │      ├── PostgreSQL
-       │      ├── MySQL
-       │      └── MongoDB
-       │
-       ├── Cloud & DevOps
-       │      ├── Docker
-       │      ├── CI/CD
-       │      └── Cloud Deployment
-       │
-       └── Security & AI
-              ├── Cybersecurity
-              └── Artificial Intelligence
+```javascript
+const developer = {
+    name: "Eba Bayane",
+    role: "Software Engineer",
+
+    specialization: [
+        "Full-Stack Development",
+        "Cloud Engineering",
+        "Cybersecurity",
+        "Artificial Intelligence"
+    ],
+
+    mindset: [
+        "Clean Architecture",
+        "Secure Development",
+        "Continuous Learning",
+        "Problem Solving"
+    ],
+
+    mission:
+        "Build reliable software that solves real-world problems."
+};
 ```
 
 ---
 
-## Technology
+<!-- ========================================================= -->
 
-<div align="center">
+<!--                    ANIMATED SKILLS                         -->
 
-### Languages
+<!-- ========================================================= -->
 
-<img src="https://skillicons.dev/icons?i=js,python,java,cpp,php" />
+## `> technology_stack`
 
-### Frontend & Backend
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,php,java,cpp&perline=10"/>
 
-### Data
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,docker,linux,git,github,vscode,postman&perline=10"/>
 
-### Tools & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
-
-</div>
+</p>
 
 ---
 
-## Selected Work
+<!-- ========================================================= -->
 
-### Transportation Management System
+<!--                    WHAT I BUILD                            -->
 
-**Real-time transportation platform**
+<!-- ========================================================= -->
 
-A full-stack system designed to manage transportation operations, users, routes, and real-time vehicle tracking.
+## `> what_i_build`
 
-**Architecture**
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-`React` · `Node.js` · `Express` · `PostgreSQL` · `PostGIS` · `Socket.IO`
+### ⚡ Full-Stack Systems
 
-**Highlights**
+Building complete applications from frontend to backend.
 
-* Real-time vehicle tracking
-* Role-based access control
-* Analytics dashboards
-* Real-time communication
-* Geospatial data processing
-* Cloud deployment
-* Responsive interface
+`React` `Node.js` `Express` `REST APIs`
 
-**Repository:**
-https://github.com/eba2311/tmsm
+</td>
 
----
+<td width="50%" valign="top">
 
-## Engineering Focus
+### ☁️ Cloud & DevOps
 
-| Area         | Focus                               |
-| ------------ | ----------------------------------- |
-| **Frontend** | React, JavaScript, responsive UI    |
-| **Backend**  | Node.js, Express, Python, REST APIs |
-| **Database** | PostgreSQL, MySQL, MongoDB          |
-| **Cloud**    | Deployment, infrastructure, CI/CD   |
-| **Security** | Secure application development      |
-| **AI**       | Intelligent systems & automation    |
+Deploying reliable applications and learning modern infrastructure.
 
----
+`Docker` `CI/CD` `Cloud`
 
-## GitHub Activity
+</td>
+</tr>
 
-<div align="center">
+<tr>
+<td width="50%" valign="top">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eba2311&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" />
+### 🔐 Secure Applications
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eba2311&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+Designing applications with security in mind.
 
-</div>
+`Authentication` `RBAC` `Web Security`
 
----
+</td>
 
-## Contribution Activity
+<td width="50%" valign="top">
 
-<div align="center">
+### 🤖 AI-Powered Software
 
-<img src="https://streak-stats.demolab.com/?user=eba2311&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+Exploring intelligent systems and automation.
 
-</div>
+`Python` `AI` `Machine Learning`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Currently
+<!-- ========================================================= -->
+
+<!--                  ANIMATED PROJECT                          -->
+
+<!-- ========================================================= -->
+
+## `> featured_project`
+
+<p align="center">
+
+### 🚌 Transportation Management System
+
+<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
+
+A full-stack transportation platform with real-time tracking, role-based access control, analytics, geospatial data, and real-time communication.
+
+### Architecture
 
 ```text
-→ Building full-stack applications
-→ Improving system design skills
-→ Exploring cloud & DevOps
-→ Learning cybersecurity
-→ Exploring AI-powered applications
-→ Contributing to meaningful software projects
+                 ┌──────────────────────┐
+                 │      React UI        │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+                 ┌──────────────────────┐
+                 │    REST API / WS     │
+                 │  Node.js + Express   │
+                 └──────────┬───────────┘
+                            │
+                ┌───────────┴───────────┐
+                ▼                       ▼
+       ┌────────────────┐      ┌────────────────┐
+       │   PostgreSQL   │      │    PostGIS     │
+       │    Database    │      │  GPS / Maps    │
+       └────────────────┘      └────────────────┘
+```
+
+### Key Features
+
+* 🛰️ Real-time GPS tracking
+* 🔐 Role-Based Access Control
+* 📊 Analytics dashboard
+* 🗺️ Geospatial processing
+* ⚡ WebSocket communication
+* 🌍 Multi-language support
+* ☁️ Cloud deployment
+* 📱 Responsive interface
+
+<p align="center">
+<a href="https://github.com/eba2311/tmsm">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                  GITHUB ANALYTICS                          -->
+
+<!-- ========================================================= -->
+
+## `> github_analytics`
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=eba2311&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=00BFFF&rank_icon=github"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eba2311&layout=donut&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                  ANIMATED STREAK                           -->
+
+<!-- ========================================================= -->
+
+## `> consistency`
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=eba2311&hide_border=true&background=0D1117&ring=00BFFF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"/>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                ANIMATED CONTRIBUTIONS                      -->
+
+<!-- ========================================================= -->
+
+## `> contribution_activity`
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/eba2311/eba2311/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                     CURRENTLY                              -->
+
+<!-- ========================================================= -->
+
+## `> currently_working_on`
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  ███████╗███████╗ ██████╗██╗   ██╗███████╗           │
+│  ██╔════╝██╔════╝██╔════╝██║   ██║██╔════╝           │
+│  █████╗  █████╗  ██║     ██║   ██║█████╗             │
+│  ██╔══╝  ██╔══╝  ██║     ╚██╗ ██╔╝██╔══╝             │
+│  ███████╗███████╗╚██████╗ ╚████╔╝ ███████╗           │
+│  ╚══════╝╚══════╝ ╚═════╝  ╚═══╝  ╚══════╝           │
+│                                                      │
+│  → Building full-stack applications                 │
+│  → Exploring Cloud & DevOps                          │
+│  → Improving Cybersecurity                           │
+│  → Learning Artificial Intelligence                  │
+│  → Designing scalable software systems               │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Principles
+<!-- ========================================================= -->
 
-> **Clean code.**
+<!--                   DEVELOPMENT FLOW                         -->
 
-> **Simple architecture.**
+<!-- ========================================================= -->
 
-> **Secure systems.**
+## `> development_loop`
 
-> **Continuous learning.**
+<p align="center">
 
-> **Software that solves real problems.**
+**IDEA**
+
+⬇️
+
+**ARCHITECTURE**
+
+⬇️
+
+**DEVELOP**
+
+⬇️
+
+**TEST**
+
+⬇️
+
+**SECURE**
+
+⬇️
+
+**DEPLOY**
+
+⬇️
+
+**IMPROVE**
+
+</p>
 
 ---
 
-<div align="center">
+<!-- ========================================================= -->
 
-### Let's build something meaningful.
+<!--                       PHILOSOPHY                           -->
+
+<!-- ========================================================= -->
+
+## `> engineering_philosophy`
+
+<p align="center">
+
+### **Build simple.**
+
+### **Think deeply.**
+
+### **Code cleanly.**
+
+### **Secure everything.**
+
+### **Keep learning.**
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                    CONNECT                                 -->
+
+<!-- ========================================================= -->
+
+## `> connect`
+
+<p align="center">
+
+<a href="https://github.com/eba2311">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 <br/>
 
-**Eba Bayane**
-*Software Engineer · Full-Stack Developer*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+great+%F0%9F%9A%80"/>
+</p>
 
-<br/>
+<!-- ========================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer"/>
+<!--                       FOOTER                               -->
 
-</div>
+<!-- ========================================================= -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:161B22,100:0D1117&height=130&section=footer&animation=fadeIn"/>
+</p>
