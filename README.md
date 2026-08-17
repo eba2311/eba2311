@@ -24,7 +24,9 @@
   <em>Software Engineer building reliable, secure, and scalable systems.</em>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1624,50:58A6FF,100:0B1624&animation=fadeIn" width="100%"/>
+</p>
 
 ## About
 
@@ -36,9 +38,15 @@ I'm a software engineer focused on full-stack development, cloud infrastructure,
 - Secure-by-design system architecture
 - Applied AI and intelligent systems
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1624,50:58A6FF,100:0B1624&animation=fadeIn" width="100%"/>
+</p>
 
 ## Technical Skills
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=800&color=22C55E&center=true&vCenter=true&width=600&lines=Loading+tech+stack...;Languages+%7C+Frontend+%7C+Backend;Cloud+%7C+DevOps+%7C+Database" />
+</p>
 
 <table width="100%">
 <tr>
@@ -71,9 +79,15 @@ I'm a software engineer focused on full-stack development, cloud infrastructure,
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1624,50:58A6FF,100:0B1624&animation=fadeIn" width="100%"/>
+</p>
 
 ## Featured Project
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Compiling+project+details...;Transportation+Management+System;Real-Time+%7C+Geospatial+%7C+Secure" />
+</p>
 
 ### Transportation Management System
 
@@ -119,9 +133,15 @@ A full-stack transportation management platform built for real-time operational 
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1624,50:58A6FF,100:0B1624&animation=fadeIn" width="100%"/>
+</p>
 
 ## GitHub Analytics
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Fetching+commit+history...;Rendering+activity+graph...;Stats+synced+%E2%9C%93" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eba2311&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=00D9FF&rank_icon=github" width="49%"/>
@@ -133,10 +153,16 @@ A full-stack transportation management platform built for real-time operational 
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eba2311&bg_color=0D1117&color=58A6FF&line=00D9FF&point=C9D1D9&area=true&hide_border=true" width="100%" alt="Animated contribution activity graph"/>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/eba2311/eba2311/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1624,50:58A6FF,100:0B1624&animation=fadeIn" width="100%"/>
+</p>
 
 ## Engineering Principles
 
@@ -148,7 +174,9 @@ A full-stack transportation management platform built for real-time operational 
 - Ship iteratively, then improve
 - Keep learning — the field doesn't stand still
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1624,50:58A6FF,100:0B1624&animation=fadeIn" width="100%"/>
+</p>
 
 ## Connect
 
